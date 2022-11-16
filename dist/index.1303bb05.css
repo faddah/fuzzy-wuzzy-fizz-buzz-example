@@ -1,0 +1,46 @@
+body {
+  color: ivory;
+  text-align: center;
+  background-color: #1e90ff;
+  justify-content: center;
+  margin-top: 5%;
+  font-family: AppleGothic, Ariel, Helvetica, sans-serif;
+  font-size: 32px;
+  display: flex;
+}
+
+.wrapper > h1 {
+  margin: 5rem 0 0;
+  font-size: 6rem;
+  transition: all .4s;
+  position: relative;
+}
+
+.getFuzzy, .clearButton {
+  color: green;
+  width: 25%;
+  background-color: #add8e6;
+  border-radius: 10px;
+  margin: 2% 0;
+  padding: 2%;
+  font-size: 1.5rem;
+  box-shadow: 10px 5px 5px teal;
+}
+
+.clearButton {
+  width: 15%;
+}
+
+.results {
+  color: #191970;
+  display: hidden;
+  height: auto;
+  width: 70%;
+  transition: all .35s ease-autoin-out;
+  background-color: ivory;
+  margin: 0 auto;
+  padding: 0 1em;
+  font-size: 1.5rem;
+}
+
+/*# sourceMappingURL=index.1303bb05.css.map */

@@ -1,0 +1,14 @@
+{
+    "name": "Fuzzy-Wuzzy-Fizz-Buzz",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "dependencies": {
+        "typescript": "^4.8.3"
+    },
+    "devDependencies": {
+        "@types/lodash": "^4.14.185",
+        "parcel": "^2.7.0"
+    }
+}
